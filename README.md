@@ -1,0 +1,1 @@
+Please download [vscode.hqx](https://raw.githubusercontent.com/life1347/vscode-icon/master/vscode.hqx) and double click to unarchive hqx file. Follow the tutorial [here](http://appleuser.com/2014/02/03/how-to-change-icon-in-mac-os-x/) to replace vscode icon on macOs.
